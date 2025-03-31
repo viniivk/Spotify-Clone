@@ -1,0 +1,26 @@
+.artist-card:hover .play {
+    opacity: 1;
+    transform: translateY(-10px);
+  }
+  
+  .card-text {
+    padding: 16px 0 0;
+  }
+  
+  .card-text a {
+    text-decoration: none;
+  }
+  
+  .artist-name {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .artist-categorie {
+    color: #b3b3b3;
+    font-size: 14px;
+    display: block;
+  }
